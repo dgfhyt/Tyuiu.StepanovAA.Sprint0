@@ -12,7 +12,6 @@ namespace Tyuiu.StepanovAA.Sprint0.Task5.V0
             Console.WriteLine($"a * b = {DataService.Multiplication(10, 10)}");
             Console.WriteLine($"a / b = {DataService.Division(9, 3)}");
             Console.WriteLine($"a / b = {DataService.Division(5, 0)}");
-
         }
     }
 }
